@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Mary Kariuki",
+      "titles": [ " My name is Mary Kariuki, I'm currently a software development student. I'm excited to be starting this journey." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mariaka86",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/mary-kariuki1/",
+          "class": "fab fa-linkedin-in"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.JPG"
     },
     "skills": {
       "icons": [
@@ -28,41 +28,25 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
+       
+       
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
+        
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "react",
+          "class": "devicon-react-plain",
           "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
+       
       ]
     }
   }
